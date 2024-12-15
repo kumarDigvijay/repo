@@ -21,3 +21,13 @@ git add index.html
 
 
 ab check karne par green hoga matlab save hai
+
+ek baar me add karne ke liye git add .
+
+
+file github pe dalne ke liye ya commit karne ke liye
+
+
+modified kare
+git commit -m "add new paragraph"
+
